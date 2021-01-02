@@ -8,6 +8,18 @@ Focused on the Single Responsibility Principle, but I was exposed to other SOLID
 
 Ended the day by solving some challenges on codewars
 
+### Day 2: January 2, 2021
+
+**Today's Progress**:
+I learnt the other principles of Object Oriented Programming (SOLID Principles)
+
+Open/Closed Principle
+Liskov Substitution Principle
+Interface Segregation Principle and
+Dependency Inversion Principle
+
+I'll be coding a Todo list app tomorrow.
+
 <!--
 **Thoughts:**
 
