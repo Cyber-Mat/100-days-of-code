@@ -20,6 +20,16 @@ Dependency Inversion Principle
 
 I'll be coding a Todo list app tomorrow.
 
+### Day 3: January 3, 2021
+
+Todo List App:
+I can't design so I searched dribbble for inspirations, found one I like and emailed the designer for permission to use it in my app.
+
+While I await the designer's reply, I set up some development tools and took time to write and understand some webpack configurations rather than just copy/pasting
+
+**Thoughts:**
+Beginner frontend developers should learn to use some design tools, it'll help a lot.
+
 <!--
 **Thoughts:**
 
