@@ -30,6 +30,20 @@ While I await the designer's reply, I set up some development tools and took tim
 **Thoughts:**
 Beginner frontend developers should learn to use some design tools, it'll help a lot.
 
+### Day 4: January 4, 2021
+
+I'm still yet to get a design for my app. I've started coding the main logic for the project. I'll write the UI updating code when I have a UI Smiling face with open mouth and cold sweat
+
+Fixed some bugs in my webpack
+config. Also learnt some coding styles (esp AirBnB style guide) and linting
+
+### Day 5: January 5, 2021
+
+Todo list app:
+Finally got a design, I've written some of the markup and some styling to see how the final app would look like.
+
+Most of the HTML code would later be dynamically generated via JavaScript.
+
 <!--
 **Thoughts:**
 
