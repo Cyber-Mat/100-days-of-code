@@ -32,7 +32,7 @@ Beginner frontend developers should learn to use some design tools, it'll help a
 
 ### Day 4: January 4, 2021
 
-I'm still yet to get a design for my app. I've started coding the main logic for the project. I'll write the UI updating code when I have a UI Smiling face with open mouth and cold sweat
+I'm still yet to get a design for my app. I've started coding the main logic for the project. I'll write the UI updating code when I have a UI.
 
 Fixed some bugs in my webpack
 config. Also learnt some coding styles (esp AirBnB style guide) and linting
@@ -43,6 +43,20 @@ Todo list app:
 Finally got a design, I've written some of the markup and some styling to see how the final app would look like.
 
 Most of the HTML code would later be dynamically generated via JavaScript.
+
+### Day 6: January 6, 2021
+
+Wrote only a few lines of HTML and some styling. Although I didn't meet my goal for today, it was still quite productive.
+
+Fixed yet another bug in my webpack
+config file, my first blog post will probably be about webpack
+
+### Day 7: January 7, 2021
+
+Todo list app:
+I did some more basic styling and changed a few colors. UI doesn't look like much now, but I'm making good progress 🙃
+
+I plan to complete the styling and continue coding the main logic by
 
 <!--
 **Thoughts:**
